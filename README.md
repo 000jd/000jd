@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joydip Das</h1>
 <h3 align="center">A Passionate Computer Science Student from Agartala, Tripura</h3>
+<p>B.Tech Computer Science student specializing in Python, Django, REST APIs, and AI. Dedicated to innovation and eager to collaborate for impactful solutions.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.mos.cms.futurecdn.net/aetVnhHUsWWtPxZ2E5TKMg-970-80.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=000jd&label=Profile%20views&color=0e75b6&style=flat" alt="000jd" /> </p>
