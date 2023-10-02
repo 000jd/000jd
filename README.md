@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=000jd&label=Profile%20views&color=0e75b6&style=flat" alt="000jd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/das_joydip49188" target="blank"><img src="https://img.shields.io/twitter/follow/das_joydip49188?logo=twitter&style=for-the-badge" alt="das_joydip49188" /></a> </p>
 
 - 📫 How to reach me **joydip@tutanota.com**
 
