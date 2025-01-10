@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=000jd&theme=radical" alt="000jd's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/api/top-langs/?username=000jd&layout=compact&theme=radical" alt="000jd's GitHub Streak" />
 </p>
 
 <p align="center">
