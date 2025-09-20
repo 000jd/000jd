@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Joydip Das</h1>
-<h3 align="center">A Passionate Machine Learning Enthusiast and Computer Science Student from Agartala, Tripura</h3>
+<h3 align="center">I build systems that sense, learn, and move.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=000jd&label=Profile%20views&color=0e75b6&style=flat" alt="000jd" />
 </p>
 
+## About Me  
 
-## About Me
-
-- 🎓 B.Tech Computer Science student specializing in Python, Django, and REST APIs
-- 🤖 Passionate about Machine Learning and Deep Learning, with a focus on PyTorch
-- 💡 Dedicated to innovation and eager to collaborate on impactful AI solutions
-- 📚 Constantly learning and exploring new technologies in the AI/ML space
+- ⚡ Engineer working across **embedded, IoT, and ML/DL**  
+- 🔧 From **microcontrollers and sensors** to **training models** and **deploying on edge devices**  
+- 🤖 I like building small systems that **sense the world and react** — microcontroller projects, home automation, and robots that **map, follow, and avoid**  
+- 🛠️ Lately tinkering with **ESP32, Raspberry Pi Pico, NodeMCU, Arduino, Raspberry Pi, ROS2, and MQTT**  
+- 📊 I care about **solid builds**: versioned firmware, reproducible setups, and dashboards that tell you what’s happening  
 
 ## 🌐 Connect with Me
 
